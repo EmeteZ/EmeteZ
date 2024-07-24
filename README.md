@@ -2,7 +2,7 @@
 
 #### 👨🏽‍💻 Sou estudante de Análise e Desenvolvimento de Sistemas
 
-- ⚙️ Minhas maiores habilidades estão em: `React.js`, `JavaScript`, `HTML`, `CSS`, `Java`, `Node.js`
+- ⚙️ Minhas maiores habilidades estão em: `React.js`, `JavaScript`, `HTML`, `CSS`, `Java`
 - ⏳  No momento, estou estudando React, incluindo hooks, router, API e projetos.
 - 🎓 Sou estudante do ensino superior em Análise e Desenvolvimento de Sistemas na **Fatec** e com curso técnico concluído na mesma área na **ETEC**.
 
