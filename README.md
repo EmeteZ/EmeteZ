@@ -3,7 +3,7 @@
 #### 👨🏽‍💻 I’m a Systems Analysis and Development student
 
 - ⚙️ My main skills are in: `React.js`, `JavaScript`, `HTML`, `CSS`, `Java`, `Tailwind CSS`, `TypeScript`, `Next.Js`.
-- ⏳ Currently, I’m studying **Angular** and exploring **PHP**.
+- ⏳ Currently, I’m studying **Angular** and exploring **PHP**, **Laravel** and **Quasar**.
 - 🎓 I’m pursuing a degree in Systems Analysis and Development at **Fatec** and have completed a technical course in the same field at **ETEC**.
 
 ## 📌 Projects
