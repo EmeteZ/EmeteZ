@@ -4,7 +4,8 @@
 
 - ⚙️ My main stack: `React.js`, `Next.js`, `TypeScript`, `JavaScript`, `Tailwind CSS`, `Laravel`, `Vue.js (Quasar)`, `PHP`
 - 🐳 Currently diving into **Docker**, infrastructure and server deployment (building and scaling real-world applications)
-- 🎓 Graduated in Systems Analysis and Development at **FATEC**
+- 🎓 Graduated in Systems Analysis and Development — **FATEC**
+- 🎓 Technical Degree in Systems Development — **ETEC Jorge Street**
 
 ## 📌 Projects
 
