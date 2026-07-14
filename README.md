@@ -9,8 +9,8 @@
 
 ## 📌 Projects
 
-🎧 **Listenr**  
-A social platform focused on music where users turn their taste into identity.
+🎧 **Echo**  
+A platform focused on music where users turn their taste into identity.
 (under development)
 
 ---
